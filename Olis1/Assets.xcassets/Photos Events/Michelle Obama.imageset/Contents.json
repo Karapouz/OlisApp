@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Michelle Obama.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
